@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name='app_name'>
+        DXRuby Android Test
+    </string>
+    <string name='dxruby_entry_point'>
+        main.rb
+    </string>
+</resources>
